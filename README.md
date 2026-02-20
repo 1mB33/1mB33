@@ -4,7 +4,7 @@ I'm a student of Jan Kochanowski university.
 
 I like to learn about 3D graphics, games, and engines in general, I was also slightly into web development for a moment.  
 I love pointers, manual memory management and power of lower level programming languages.
-Loves (and hates) operating system APIs (WinAPI and linux headers). 
+I'm fascinated by operating system APIs. 
 
 I strive to write well abstracted, bug free code, but I love optimizing it so it's as fast as I can make it.
 ```
