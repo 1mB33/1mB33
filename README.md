@@ -1,4 +1,6 @@
+---
 ### Hello there.
+
 
 I'm a student of Jan Kochanowski university. 
 
@@ -7,6 +9,8 @@ I love pointers, manual memory management and power of lower level programming l
 I'm fascinated by operating system APIs. 
 
 I strive to write well abstracted, bug free code, but I love optimizing it so it's as fast as I can make it.
+
+---
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
